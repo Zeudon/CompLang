@@ -1,0 +1,977 @@
+Stack: 
+$
+PROG
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+FUNC
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST
+open_paran
+id
+DATA_TYPE
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST
+open_paran
+id
+int
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST
+open_paran
+id
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST
+open_paran
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST2
+ARG
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST2
+id
+DATA_TYPE
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST2
+id
+int
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST2
+id
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST2
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST
+comma
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST2
+ARG
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST2
+id
+DATA_TYPE
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST2
+id
+string
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST2
+id
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+ARG_LIST2
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+open_curly
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+STMT
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+ASSN_STMT
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+RHS_ASSN
+assign
+id
+DATA_TYPE
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+RHS_ASSN
+assign
+id
+int
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+RHS_ASSN
+assign
+id
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+RHS_ASSN
+assign
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+RHS_ASSN
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+ARITH_EXPR
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+ARITH_EXPR2
+id
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+ARITH_EXPR2
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+ARITH_EXPR2
+ARITH_EXPR
+plus
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+ARITH_EXPR2
+ARITH_EXPR
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+ARITH_EXPR2
+ARITH_EXPR2
+id
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+semicol
+ARITH_EXPR2
+ARITH_EXPR2
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+close_curly
+STMT_LIST
+*************************************
+Stack: 
+$
+MAIN_FUNC
+FUNC_LIST
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+open_paran
+main
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+open_paran
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+open_curly
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+STMT
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+WHILE_STMT
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR
+open_paran
+while
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR
+open_paran
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR
+open_paran
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR2
+id
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR2
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR2
+ARITH_EXPR
+plus
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR2
+ARITH_EXPR
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR2
+ARITH_EXPR2
+id
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR2
+ARITH_EXPR2
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR2
+id
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR2
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR
+and
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR
+open_paran
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR2
+id
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+equals
+ARITH_EXPR2
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR2
+id
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+closing_paran
+ARITH_EXPR2
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+closing_paran
+COND_EXPR2
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+open_curly
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+STMT
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+ASSN_STMT
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+semicol
+RHS_ASSN
+assign
+id
+DATA_TYPE
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+semicol
+RHS_ASSN
+assign
+id
+string
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+semicol
+RHS_ASSN
+assign
+id
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+semicol
+RHS_ASSN
+assign
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+semicol
+RHS_ASSN
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+semicol
+string_lit
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+semicol
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+close_curly
+STMT_LIST
+*************************************
+Stack: 
+$
+close_curly
+STMT_LIST
+*************************************
+Stack: 
+$
+*************************************
+Stack: 
+*************************************
+Tree bfs: 
+PROG 
+FUNC_LIST MAIN_FUNC 
+FUNC FUNC_LIST main open_paran closing_paran open_curly STMT_LIST close_curly 
+DATA_TYPE id open_paran ARG_LIST closing_paran open_curly STMT_LIST close_curly STMT STMT_LIST 
+int ARG ARG_LIST2 STMT STMT_LIST WHILE_STMT 
+DATA_TYPE id comma ARG_LIST ASSN_STMT while open_paran COND_EXPR closing_paran open_curly STMT_LIST close_curly 
+int ARG ARG_LIST2 DATA_TYPE id assign RHS_ASSN semicol open_paran ARITH_EXPR equals ARITH_EXPR closing_paran COND_EXPR2 STMT STMT_LIST 
+DATA_TYPE id int ARITH_EXPR id ARITH_EXPR2 id ARITH_EXPR2 and COND_EXPR ASSN_STMT 
+string id ARITH_EXPR2 plus ARITH_EXPR ARITH_EXPR2 open_paran ARITH_EXPR equals ARITH_EXPR closing_paran COND_EXPR2 DATA_TYPE id assign RHS_ASSN semicol 
+plus ARITH_EXPR ARITH_EXPR2 id ARITH_EXPR2 id ARITH_EXPR2 id ARITH_EXPR2 string string_lit 
+id ARITH_EXPR2 
+*************************************
+************************DFS OF TREE**********************
+
+PROG
+  FUNC_LIST
+    FUNC
+      DATA_TYPE
+        int
+      id
+      open_paran
+      ARG_LIST
+        ARG
+          DATA_TYPE
+            int
+          id
+        ARG_LIST2
+          comma
+          ARG_LIST
+            ARG
+              DATA_TYPE
+                string
+              id
+            ARG_LIST2
+      closing_paran
+      open_curly
+      STMT_LIST
+        STMT
+          ASSN_STMT
+            DATA_TYPE
+              int
+            id
+            assign
+            RHS_ASSN
+              ARITH_EXPR
+                id
+                ARITH_EXPR2
+                  plus
+                  ARITH_EXPR
+                    id
+                    ARITH_EXPR2
+                  ARITH_EXPR2
+            semicol
+        STMT_LIST
+      close_curly
+    FUNC_LIST
+  MAIN_FUNC
+    main
+    open_paran
+    closing_paran
+    open_curly
+    STMT_LIST
+      STMT
+        WHILE_STMT
+          while
+          open_paran
+          COND_EXPR
+            open_paran
+            ARITH_EXPR
+              id
+              ARITH_EXPR2
+                plus
+                ARITH_EXPR
+                  id
+                  ARITH_EXPR2
+                ARITH_EXPR2
+            equals
+            ARITH_EXPR
+              id
+              ARITH_EXPR2
+            closing_paran
+            COND_EXPR2
+              and
+              COND_EXPR
+                open_paran
+                ARITH_EXPR
+                  id
+                  ARITH_EXPR2
+                equals
+                ARITH_EXPR
+                  id
+                  ARITH_EXPR2
+                closing_paran
+                COND_EXPR2
+          closing_paran
+          open_curly
+          STMT_LIST
+            STMT
+              ASSN_STMT
+                DATA_TYPE
+                  string
+                id
+                assign
+                RHS_ASSN
+                  string_lit
+                semicol
+            STMT_LIST
+          close_curly
+      STMT_LIST
+    close_curly

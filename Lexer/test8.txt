@@ -1,0 +1,10 @@
+//Error generation for operators
+int main(){
+int a=0,b=1,c=2,d=3,f=99;
+boolean flag = true;
+if(a===0);
+if(b>=<0);
+if(c%%d);
+if(d/7=!0 & f==0);
+if(a==0 | b==0);
+}

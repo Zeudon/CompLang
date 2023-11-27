@@ -1,0 +1,15 @@
+/* Error Handling
+*/
+
+main() {
+
+	int bd = 12;
+	
+	/* rest of the program */
+	
+	int x = 12;
+	
+	string s = " This is a string with missing closing quote";
+    	int w =;
+        int g=6;
+}

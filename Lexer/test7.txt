@@ -1,0 +1,7 @@
+//Error generation for invalid identifiers
+void main ()
+{     
+  int 123A,a123A; //first invalid, second valid
+  float _a_8; //invalid
+  string a_9; //valid
+}

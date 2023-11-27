@@ -1,0 +1,85 @@
+
+Token type: keyword,Token ID: 101 String: int  Line number: 2
+Token type: identifier,Token ID: 550 String: fact  Line number: 2
+Token type: delimiters,Token ID: 304 String: (  Line number: 2
+Token type: keyword,Token ID: 101 String: int  Line number: 2
+Token type: identifier,Token ID: 550 String: n  Line number: 2
+Token type: delimiters,Token ID: 305 String: )  Line number: 2
+Token type: delimiters,Token ID: 300 String: {  Line number: 2
+
+Token type: keyword,Token ID: 107 String: if  Line number: 3
+Token type: delimiters,Token ID: 304 String: (  Line number: 3
+Token type: identifier,Token ID: 550 String: n  Line number: 3
+Token type: operator,Token ID: 211 String: <=  Line number: 3
+Token type: Integer literals,Token ID: 400 String: 1  Line number: 3
+Token type: delimiters,Token ID: 305 String: )  Line number: 3
+
+Token type: keyword,Token ID: 114 String: return  Line number: 4
+Token type: Integer literals,Token ID: 400 String: 1  Line number: 4
+Token type: delimiters,Token ID: 306 String: ;  Line number: 4
+
+Token type: keyword,Token ID: 108 String: else  Line number: 5
+
+Token type: keyword,Token ID: 114 String: return  Line number: 6
+Token type: identifier,Token ID: 550 String: n  Line number: 6
+Token type: operator,Token ID: 202 String: *  Line number: 6
+Token type: identifier,Token ID: 550 String: fact  Line number: 6
+Token type: delimiters,Token ID: 304 String: (  Line number: 6
+Token type: identifier,Token ID: 550 String: n  Line number: 6
+Token type: operator,Token ID: 201 String: -  Line number: 6
+Token type: Integer literals,Token ID: 400 String: 1  Line number: 6
+Token type: delimiters,Token ID: 305 String: )  Line number: 6
+Token type: delimiters,Token ID: 306 String: ;  Line number: 6
+
+Token type: delimiters,Token ID: 301 String: }  Line number: 7
+
+Token type: keyword,Token ID: 115 String: void  Line number: 8
+Token type: identifier,Token ID: 550 String: main  Line number: 8
+Token type: delimiters,Token ID: 304 String: (  Line number: 8
+Token type: keyword,Token ID: 115 String: void  Line number: 8
+Token type: delimiters,Token ID: 305 String: )  Line number: 8
+Token type: delimiters,Token ID: 300 String: {  Line number: 8
+
+Token type: keyword,Token ID: 101 String: int  Line number: 9
+Token type: identifier,Token ID: 550 String: x  Line number: 9
+Token type: delimiters,Token ID: 306 String: ;  Line number: 9
+
+Token type: identifier,Token ID: 550 String: x  Line number: 10
+Token type: operator,Token ID: 207 String: =  Line number: 10
+Token type: Integer literals,Token ID: 400 String: 1  Line number: 10
+Token type: delimiters,Token ID: 306 String: ;  Line number: 10
+
+Token type: keyword,Token ID: 105 String: while  Line number: 11
+Token type: delimiters,Token ID: 304 String: (  Line number: 11
+Token type: identifier,Token ID: 550 String: x  Line number: 11
+Token type: operator,Token ID: 211 String: <=  Line number: 11
+Token type: Integer literals,Token ID: 400 String: 10  Line number: 11
+Token type: delimiters,Token ID: 305 String: )  Line number: 11
+Token type: delimiters,Token ID: 300 String: {  Line number: 11
+
+Token type: keyword,Token ID: 111 String: print  Line number: 12
+Token type: delimiters,Token ID: 304 String: (  Line number: 12
+Token type: identifier,Token ID: 550 String: x  Line number: 12
+Token type: delimiters,Token ID: 305 String: )  Line number: 12
+Token type: delimiters,Token ID: 306 String: ;  Line number: 12
+
+Token type: keyword,Token ID: 111 String: print  Line number: 13
+Token type: delimiters,Token ID: 304 String: (  Line number: 13
+Token type: identifier,Token ID: 550 String: fact  Line number: 13
+Token type: delimiters,Token ID: 304 String: (  Line number: 13
+Token type: identifier,Token ID: 550 String: x  Line number: 13
+Token type: delimiters,Token ID: 305 String: )  Line number: 13
+Token type: delimiters,Token ID: 305 String: )  Line number: 13
+Token type: delimiters,Token ID: 306 String: ;  Line number: 13
+
+Token type: identifier,Token ID: 550 String: x  Line number: 14
+Token type: operator,Token ID: 207 String: =  Line number: 14
+Token type: identifier,Token ID: 550 String: x  Line number: 14
+Token type: operator,Token ID: 200 String: +  Line number: 14
+Token type: Integer literals,Token ID: 400 String: 1  Line number: 14
+Token type: delimiters,Token ID: 306 String: ;  Line number: 14
+
+Token type: delimiters,Token ID: 301 String: }  Line number: 15
+
+Token type: delimiters,Token ID: 301 String: }  Line number: 16
+

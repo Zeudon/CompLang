@@ -1,0 +1,17 @@
+/* This is a comment. It will be ignored by the lexer.
+We may also have multiline comments */
+
+
+/* This is a user defined function  with two parameters */
+
+int myFunc(int abc, string gab){
+        string p="asdf";
+	int s = x + y;
+        int b= 4+5*3;
+}
+
+main(){
+	while((a+b == 6) && (c == d)){
+		string s = "deal";
+	}
+}

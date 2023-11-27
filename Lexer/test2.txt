@@ -1,0 +1,15 @@
+//Checking if code recognizes int,float and string literals
+int main (void)
+{     
+  float x=1.3456;
+  float y=-2890.321;
+  int a=10000;
+  int b=0;
+  int c=-20678;
+  string q="She sells sea shells on the sea shore.";
+  print(x);
+  print("String in print");
+  print(104678); //Int in print
+  print(45.6789); //Float in print
+  return 0;
+}

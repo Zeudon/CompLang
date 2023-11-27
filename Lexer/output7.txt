@@ -1,0 +1,24 @@
+
+Token type: keyword,Token ID: 114 String: void  Line number: 2
+Token type: identifier,Token ID: 550 String: main  Line number: 2
+Token type: delimiters,Token ID: 304 String: (  Line number: 2
+Token type: delimiters,Token ID: 305 String: )  Line number: 2
+
+Token type: delimiters,Token ID: 300 String: {  Line number: 3
+
+Token type: keyword,Token ID: 101 String: int  Line number: 4
+Error in line 4 . Invalid token: 123A
+Token type: delimiters,Token ID: 307 String: ,  Line number: 4
+Token type: identifier,Token ID: 550 String: a123A  Line number: 4
+Token type: delimiters,Token ID: 306 String: ;  Line number: 4
+
+Token type: keyword,Token ID: 102 String: float  Line number: 5
+Error in line 5 . Invalid token: _a_8
+Token type: delimiters,Token ID: 306 String: ;  Line number: 5
+
+Token type: keyword,Token ID: 104 String: string  Line number: 6
+Token type: identifier,Token ID: 550 String: a_9  Line number: 6
+Token type: delimiters,Token ID: 306 String: ;  Line number: 6
+
+Token type: delimiters,Token ID: 301 String: }  Line number: 7
+

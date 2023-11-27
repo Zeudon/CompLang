@@ -1,0 +1,1 @@
+Parsing error, unexpected symbol: ";" on line no: 13 applying Synch routine

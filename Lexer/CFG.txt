@@ -1,0 +1,34 @@
+
+1)<program>:= <header files> <block>
+
+2)<header files>:= ...(list of headers)
+
+3)<block>:= <keyword_type> main() { <statement_list> } | <keyword_type> <identifier> (<parameters>) { <statement_list> } <block>
+
+4)<keyword_type>:= int|float|boolean|string
+
+5)<parameters>:= <keyword><identifier>| <keyword><identifier>,<parameters>
+
+6)<statement_list>:= <statement> | <statement> <statement_list> | <declaration> | <declaration> <statement_list> | <loop> <statement_list> | <conditional> <statement_list>
+
+7)<declaration>:= <keyword_type> <identifier>
+
+8)<loop>:= while(<condition>) { <statement_list> }
+
+10)<conditional>:= if(<condition>) { <statement_list> } | if ( <condition> ) { <statement_list> } else { <statement_list> }
+
+11)<statement>:= <assign_statement> | <print_statement>
+
+12)<assign_statement>:=  <id>= <expression>
+
+13)<print_statement>:= cout<< <values>
+
+14)<out_list>:= <values> | <values> << <out_list>
+
+15)<values>:= <id> | <string> | <int> | <float> | <id><values> | <string> <values> | <int><values> | <float><values>
+
+16)<condition>:= <expression> | <expression> <operator> <expression>
+
+17)<expression>:=   <identifier> | <identifier> <operator> <expression>
+
+18)<operator>:= ...list of operators

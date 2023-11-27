@@ -1,0 +1,8 @@
+//Checking if code recognizes different types of identifiers
+void main ()
+{     
+  int A,a;
+  float A_2345666, a87_yuwer;
+  string qwerty_12345;
+  qwerty_12345="qwerty_12345";
+}

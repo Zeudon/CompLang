@@ -1,0 +1,16 @@
+//Checking if code recognizes different types of keywords
+int main (void)
+{     
+  int i=1,a;
+  float f=1.2;
+  boolean b=true, bl=false;
+  string="Test string";
+  while(i<10){
+  i=i+1;
+  }
+  if(f<2) b=false;
+  else b=true;
+  print(f,b);
+  scan(a);
+  return 0;
+}

@@ -1,0 +1,8 @@
+//Checking if code recognizes all operators
+int main(){
+int a=0,b=1,c=2,d=3,f=99;
+boolean flag = true;
+if(a<+1 && b!=-1 || c%2==0) flag=false; //Here +1 must be int literal
+if(f<=100-b && (d/3)*(4)>=234+a) flag=true; //Here + and - must be operator
+else flag=false;
+}

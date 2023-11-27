@@ -1,0 +1,199 @@
+
+Token type: keyword,Token ID: 101 String: int  Line number: 2
+Token type: identifier,Token ID: 550 String: main  Line number: 2
+Token type: delimiters,Token ID: 304 String: (  Line number: 2
+Token type: keyword,Token ID: 114 String: void  Line number: 2
+Token type: delimiters,Token ID: 305 String: )  Line number: 2
+Token type: delimiters,Token ID: 300 String: {  Line number: 2
+
+
+
+Token type: keyword,Token ID: 101 String: int  Line number: 5
+Token type: identifier,Token ID: 550 String: a  Line number: 5
+Token type: operator,Token ID: 207 String: =  Line number: 5
+Token type: Integer literals,Token ID: 400 String: 10  Line number: 5
+Token type: delimiters,Token ID: 307 String: ,  Line number: 5
+Token type: identifier,Token ID: 550 String: b  Line number: 5
+Token type: operator,Token ID: 207 String: =  Line number: 5
+Token type: Integer literals,Token ID: 400 String: -10  Line number: 5
+Token type: delimiters,Token ID: 307 String: ,  Line number: 5
+Token type: identifier,Token ID: 550 String: c  Line number: 5
+Token type: operator,Token ID: 207 String: =  Line number: 5
+Token type: Integer literals,Token ID: 400 String: 10  Line number: 5
+Token type: delimiters,Token ID: 307 String: ,  Line number: 5
+Token type: identifier,Token ID: 550 String: d  Line number: 5
+Token type: operator,Token ID: 207 String: =  Line number: 5
+Token type: identifier,Token ID: 550 String: a  Line number: 5
+Token type: operator,Token ID: 200 String: +  Line number: 5
+Token type: identifier,Token ID: 550 String: c  Line number: 5
+Token type: delimiters,Token ID: 306 String: ;  Line number: 5
+
+Token type: keyword,Token ID: 102 String: float  Line number: 6
+Token type: identifier,Token ID: 550 String: x  Line number: 6
+Token type: operator,Token ID: 207 String: =  Line number: 6
+Token type: Float literals,Token ID: 450 String: 1.2  Line number: 6
+Token type: delimiters,Token ID: 307 String: ,  Line number: 6
+Token type: identifier,Token ID: 550 String: y  Line number: 6
+Token type: operator,Token ID: 207 String: =  Line number: 6
+Token type: Float literals,Token ID: 450 String: -1.2  Line number: 6
+Token type: delimiters,Token ID: 307 String: ,  Line number: 6
+Token type: identifier,Token ID: 550 String: z  Line number: 6
+Token type: operator,Token ID: 207 String: =  Line number: 6
+Token type: Float literals,Token ID: 450 String: 1.2  Line number: 6
+Token type: delimiters,Token ID: 307 String: ,  Line number: 6
+Token type: identifier,Token ID: 550 String: w  Line number: 6
+Token type: operator,Token ID: 207 String: =  Line number: 6
+Token type: identifier,Token ID: 550 String: x  Line number: 6
+Token type: operator,Token ID: 200 String: +  Line number: 6
+Token type: identifier,Token ID: 550 String: z  Line number: 6
+Token type: delimiters,Token ID: 306 String: ;  Line number: 6
+
+Token type: keyword,Token ID: 104 String: string  Line number: 7
+Token type: identifier,Token ID: 550 String: q  Line number: 7
+Token type: operator,Token ID: 207 String: =  Line number: 7
+Token type: String literals,Token ID: 500 String: "Complete string"  Line number: 7
+Token type: delimiters,Token ID: 306 String: ;  Line number: 7
+
+Token type: keyword,Token ID: 101 String: int  Line number: 8
+Token type: identifier,Token ID: 550 String: aa  Line number: 8
+Token type: operator,Token ID: 207 String: =  Line number: 8
+Error in line 8 . Invalid token: 10ab
+Token type: delimiters,Token ID: 307 String: ,  Line number: 8
+Token type: identifier,Token ID: 550 String: bb  Line number: 8
+Token type: operator,Token ID: 207 String: =  Line number: 8
+Error in line 8 . Invalid token: 0049
+Token type: delimiters,Token ID: 306 String: ;  Line number: 8
+
+Token type: keyword,Token ID: 102 String: float  Line number: 9
+Token type: identifier,Token ID: 550 String: cc  Line number: 9
+Token type: operator,Token ID: 207 String: =  Line number: 9
+Error in line 9 . Invalid token: 0.ab
+Token type: delimiters,Token ID: 306 String: ;  Line number: 9
+
+Token type: keyword,Token ID: 104 String: string  Line number: 10
+Token type: identifier,Token ID: 550 String: st  Line number: 10
+Token type: operator,Token ID: 207 String: =  Line number: 10
+Error in line 10. Invalid String.
+
+
+
+Token type: keyword,Token ID: 101 String: int  Line number: 13
+Token type: identifier,Token ID: 550 String: A  Line number: 13
+Token type: delimiters,Token ID: 306 String: ;  Line number: 13
+
+Token type: keyword,Token ID: 102 String: float  Line number: 14
+Token type: identifier,Token ID: 550 String: a_23  Line number: 14
+Token type: delimiters,Token ID: 306 String: ;  Line number: 14
+
+Token type: keyword,Token ID: 101 String: int  Line number: 15
+Error in line 15 . Invalid token: _aqwe
+Token type: delimiters,Token ID: 306 String: ;  Line number: 15
+
+Token type: keyword,Token ID: 102 String: float  Line number: 16
+Error in line 16 . Invalid token: 123_a
+Token type: delimiters,Token ID: 306 String: ;  Line number: 16
+
+
+
+Token type: keyword,Token ID: 107 String: if  Line number: 19
+Token type: delimiters,Token ID: 304 String: (  Line number: 19
+Token type: identifier,Token ID: 550 String: a  Line number: 19
+Token type: operator,Token ID: 206 String: <  Line number: 19
+Token type: Integer literals,Token ID: 400 String: 1  Line number: 19
+Token type: operator,Token ID: 213 String: &&  Line number: 19
+Token type: identifier,Token ID: 550 String: b  Line number: 19
+Token type: operator,Token ID: 209 String: !=  Line number: 19
+Token type: Integer literals,Token ID: 400 String: -1  Line number: 19
+Token type: operator,Token ID: 214 String: ||  Line number: 19
+Token type: identifier,Token ID: 550 String: c  Line number: 19
+Token type: operator,Token ID: 204 String: %  Line number: 19
+Token type: Integer literals,Token ID: 400 String: 2  Line number: 19
+Token type: operator,Token ID: 208 String: ==  Line number: 19
+Token type: Integer literals,Token ID: 400 String: 0  Line number: 19
+Token type: delimiters,Token ID: 305 String: )  Line number: 19
+Token type: delimiters,Token ID: 306 String: ;  Line number: 19
+
+Token type: keyword,Token ID: 107 String: if  Line number: 20
+Token type: delimiters,Token ID: 304 String: (  Line number: 20
+Token type: identifier,Token ID: 550 String: x  Line number: 20
+Token type: operator,Token ID: 211 String: <=  Line number: 20
+Token type: Integer literals,Token ID: 400 String: 100  Line number: 20
+Token type: operator,Token ID: 201 String: -  Line number: 20
+Token type: identifier,Token ID: 550 String: b  Line number: 20
+Token type: operator,Token ID: 213 String: &&  Line number: 20
+Token type: delimiters,Token ID: 304 String: (  Line number: 20
+Token type: identifier,Token ID: 550 String: d  Line number: 20
+Token type: operator,Token ID: 203 String: /  Line number: 20
+Token type: Integer literals,Token ID: 400 String: 3  Line number: 20
+Token type: delimiters,Token ID: 305 String: )  Line number: 20
+Token type: operator,Token ID: 202 String: *  Line number: 20
+Token type: delimiters,Token ID: 304 String: (  Line number: 20
+Token type: Integer literals,Token ID: 400 String: 4  Line number: 20
+Token type: delimiters,Token ID: 305 String: )  Line number: 20
+Token type: operator,Token ID: 210 String: >=  Line number: 20
+Token type: Integer literals,Token ID: 400 String: 234  Line number: 20
+Token type: operator,Token ID: 200 String: +  Line number: 20
+Token type: identifier,Token ID: 550 String: a  Line number: 20
+Token type: delimiters,Token ID: 305 String: )  Line number: 20
+Token type: delimiters,Token ID: 306 String: ;  Line number: 20
+
+
+
+Token type: keyword,Token ID: 103 String: boolean  Line number: 23
+Token type: identifier,Token ID: 550 String: flag  Line number: 23
+Token type: operator,Token ID: 207 String: =  Line number: 23
+Token type: keyword,Token ID: 109 String: true  Line number: 23
+Token type: delimiters,Token ID: 306 String: ;  Line number: 23
+
+Token type: keyword,Token ID: 105 String: while  Line number: 24
+Token type: delimiters,Token ID: 304 String: (  Line number: 24
+Token type: identifier,Token ID: 550 String: a  Line number: 24
+Token type: operator,Token ID: 206 String: <  Line number: 24
+Token type: Integer literals,Token ID: 400 String: 10  Line number: 24
+Token type: delimiters,Token ID: 305 String: )  Line number: 24
+Token type: delimiters,Token ID: 300 String: {  Line number: 24
+
+Token type: identifier,Token ID: 550 String: a  Line number: 25
+Token type: operator,Token ID: 207 String: =  Line number: 25
+Token type: identifier,Token ID: 550 String: a  Line number: 25
+Token type: operator,Token ID: 200 String: +  Line number: 25
+Token type: Integer literals,Token ID: 400 String: 1  Line number: 25
+Token type: delimiters,Token ID: 306 String: ;  Line number: 25
+
+Token type: delimiters,Token ID: 301 String: }  Line number: 26
+
+Token type: keyword,Token ID: 107 String: if  Line number: 27
+Token type: delimiters,Token ID: 304 String: (  Line number: 27
+Token type: identifier,Token ID: 550 String: f  Line number: 27
+Token type: operator,Token ID: 206 String: <  Line number: 27
+Token type: Integer literals,Token ID: 400 String: 2  Line number: 27
+Token type: delimiters,Token ID: 305 String: )  Line number: 27
+Token type: identifier,Token ID: 550 String: flag  Line number: 27
+Token type: operator,Token ID: 207 String: =  Line number: 27
+Token type: keyword,Token ID: 110 String: false  Line number: 27
+Token type: delimiters,Token ID: 306 String: ;  Line number: 27
+
+Token type: keyword,Token ID: 108 String: else  Line number: 28
+Token type: identifier,Token ID: 550 String: flag  Line number: 28
+Token type: operator,Token ID: 207 String: =  Line number: 28
+Token type: keyword,Token ID: 109 String: true  Line number: 28
+Token type: delimiters,Token ID: 306 String: ;  Line number: 28
+
+Token type: keyword,Token ID: 111 String: print  Line number: 29
+Token type: delimiters,Token ID: 304 String: (  Line number: 29
+Token type: identifier,Token ID: 550 String: b  Line number: 29
+Token type: delimiters,Token ID: 305 String: )  Line number: 29
+Token type: delimiters,Token ID: 306 String: ;  Line number: 29
+
+Token type: keyword,Token ID: 112 String: scan  Line number: 30
+Token type: delimiters,Token ID: 304 String: (  Line number: 30
+Token type: identifier,Token ID: 550 String: a  Line number: 30
+Token type: delimiters,Token ID: 305 String: )  Line number: 30
+Token type: delimiters,Token ID: 306 String: ;  Line number: 30
+
+Token type: keyword,Token ID: 113 String: return  Line number: 31
+Token type: Integer literals,Token ID: 400 String: 0  Line number: 31
+Token type: delimiters,Token ID: 306 String: ;  Line number: 31
+
+Token type: delimiters,Token ID: 301 String: }  Line number: 32
+

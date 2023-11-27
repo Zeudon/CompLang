@@ -1,0 +1,32 @@
+//Test case for demo
+int main(void){
+
+//Literals
+int a=10,b=-10,c=+10,d=a+c;
+float x=1.2,y=-1.2,z=+1.2,w=x+z;
+string q="Complete string";
+int aa=10ab, bb=0049;
+float cc=0.ab;
+string st="Incomplete String;
+
+//Identifiers
+int A;
+float a_23;
+int _aqwe;
+float 123_a;
+
+//Operators
+if(a<+1 && b!=-1 || c%2==0);
+if(x<=100-b && (d/3)*(4)>=234+a);
+
+//Keywords
+boolean flag=true;
+while(a<10){
+  a=a+1;
+}
+if(f<2) flag=false;
+else flag=true;
+print(b);
+scan(a);
+return 0;
+}

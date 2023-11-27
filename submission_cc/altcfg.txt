@@ -1,0 +1,33 @@
+1  PROG -> FUNC_LIST MAIN_FUNC
+2  FUNC_LIST -> FUNC FUNC_LIST
+3  FUNC_LIST -> ''
+4  FUNC -> DATA_TYPE id open_paran ARG_LIST closing_paran open_curly STMT_LIST close_curly
+5  ARG_LIST -> ''
+6  ARG_LIST -> ARG ARG_LIST2
+7  ARG_LIST2 -> ''
+8  ARG_LIST2 -> comma ARG_LIST
+9  ARG -> DATA_TYPE id
+10  DATA_TYPE -> int|string
+//change 1: DATA_TYPE -> float
+11  STMT_LIST -> ''	
+12  STMT_LIST -> STMT STMT_LIST
+13  STMT -> ASSN_STMT
+14  STMT -> IF_STMT
+15  STMT -> WHILE_STMT
+16  IF_STMT -> if open_paran COND_EXPR closing_paran open_curly STMT_LIST close_curly else open_curly STMT_LIST close_curly
+17  WHILE_STMT -> while open_paran COND_EXPR closing_paran open_curly STMT_LIST close_curly
+18  ASSN_STMT -> DATA_TYPE id assign RHS_ASSN semicol
+19  RHS_ASSN -> string_lit
+20  RHS_ASSN -> ARITH_EXPR
+21  MAIN_FUNC -> main open_paran closing_paran open_curly STMT_LIST close_curly
+22  ARITH_EXPR -> id ARITH_EXPR2
+23  ARITH_EXPR -> open_paran ARITH_EXPR closing_paran ARITH_EXPR2
+24  ARITH_EXPR -> num ARITH_EXPR2
+25  ARITH_EXPR2 -> ''	
+26  ARITH_EXPR2 -> plus ARITH_EXPR ARITH_EXPR2
+27  ARITH_EXPR2 -> mul ARITH_EXPR ARITH_EXPR2
+//change 2: ARITH_EXPR2 -> sub ARITH_EXPR ARITH_EXPR2
+//change 3: ARITH_EXPR2 -> div ARITH_EXPR ARITH_EXPR2
+28  COND_EXPR -> open_paran ARITH_EXPR equals ARITH_EXPR closing_paran COND_EXPR2
+29  COND_EXPR2 -> ''
+30  COND_EXPR2 -> and COND_EXPR

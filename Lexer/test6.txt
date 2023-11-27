@@ -1,0 +1,15 @@
+//Error generation for int,float and string literals
+int main (void)
+{     
+  float x=1.ab0; //invalid
+  float y=-2890.3ab21; //invalid
+  int a=0016; //invalid
+  int b=0; //valid
+  int c=-20678; //valid
+  string q="String that doesnt close; //invalid
+  print(x);
+  print("Invalid ); //invalid
+  print(1046ab0); //invalid
+  print(4sd5.6789); //invalid
+  return 0;
+}

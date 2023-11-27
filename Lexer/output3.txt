@@ -1,0 +1,31 @@
+
+Token type: keyword,Token ID: 115 String: void  Line number: 2
+Token type: identifier,Token ID: 550 String: main  Line number: 2
+Token type: delimiters,Token ID: 304 String: (  Line number: 2
+Token type: delimiters,Token ID: 305 String: )  Line number: 2
+
+Token type: delimiters,Token ID: 300 String: {  Line number: 3
+
+Token type: keyword,Token ID: 101 String: int  Line number: 4
+Token type: identifier,Token ID: 550 String: A  Line number: 4
+Token type: delimiters,Token ID: 307 String: ,  Line number: 4
+Token type: identifier,Token ID: 550 String: a  Line number: 4
+Token type: delimiters,Token ID: 306 String: ;  Line number: 4
+
+Token type: keyword,Token ID: 102 String: float  Line number: 5
+Token type: identifier,Token ID: 550 String: A_2345666  Line number: 5
+Token type: delimiters,Token ID: 307 String: ,  Line number: 5
+Token type: identifier,Token ID: 550 String: a87_yuwer  Line number: 5
+Token type: delimiters,Token ID: 306 String: ;  Line number: 5
+
+Token type: keyword,Token ID: 104 String: string  Line number: 6
+Token type: identifier,Token ID: 550 String: qwerty_12345  Line number: 6
+Token type: delimiters,Token ID: 306 String: ;  Line number: 6
+
+Token type: identifier,Token ID: 550 String: qwerty_12345  Line number: 7
+Token type: operator,Token ID: 207 String: =  Line number: 7
+Token type: String literals,Token ID: 500 String: "qwerty_12345"  Line number: 7
+Token type: delimiters,Token ID: 306 String: ;  Line number: 7
+
+Token type: delimiters,Token ID: 301 String: }  Line number: 8
+
